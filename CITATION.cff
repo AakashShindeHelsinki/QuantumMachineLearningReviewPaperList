@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "List of most Cited QML papers on Web of Science and QMI Journed"
+authors:
+- family-names: "Shinde"
+  given-names: "Aakash Ravindra "
+title: "QuantumMachineLearningReviewPaperList"
+version: 1.0.0
+date-released: 2025-04-14
+url: "https://github.com/AakashShindeHelsinki/QuantumMachineLearningReviewPaperList"
